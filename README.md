@@ -59,7 +59,7 @@ _Always eager to learn new technologies and take on exciting challenges!_
 - [LinkedIn](#) <!-- Add your LinkedIn link -->
 - [Twitter](#) <!-- Add your Twitter link -->
 - [Portfolio](#) <!-- Add your portfolio link -->
-- [Email](#) sidhantkaistha2004@gmail.com<!-- Add your portfolio link -->
+- [Email](#"sidhantkaistha2004@gmail.com") <!-- Add your portfolio link -->
 ---
 
 _Thanks for visiting my profile! Let's build something amazing together._ 
