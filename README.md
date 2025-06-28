@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Sidhant Kaistha!
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and building solutions that make a difference. Here you'll find my projects, experiments, and contributions.
 
