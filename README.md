@@ -31,7 +31,7 @@ Welcome to my GitHub! Here's a quick overview of the technologies and tools I wo
   Building responsive and modern web interfaces
 
 ## Frameworks & Tools
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)   
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
   JavaScript runtime for backend and tooling
 - ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)  
   Cross-platform desktop applications using web technologies
