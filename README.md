@@ -52,10 +52,12 @@ _Always eager to learn new technologies and take on exciting challenges!_
 
 ## 📊 GitHub Stats
 
-![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhantkaistha2004&show_icons=true&theme=radical)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhantkaistha2004&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhantkaistha2004&layout=compact&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=sidhantkaistha2004&theme=radical)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sidhantkaistha2004&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Sidhant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sidhantkaistha2004&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://komarev.com/ghpvc/?username=sidhantkaistha2004&color=blueviolet)
 ---
 ## 📫 Let's Connect!
 - [Email](#) sidhantkaistha2004@gmail.com 
