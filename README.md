@@ -52,8 +52,8 @@ _Always eager to learn new technologies and take on exciting challenges!_
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhantkaistha2004&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhantkaistha2004&layout=compact&theme=radical)
 
 ---
 ## 📫 Let's Connect!
